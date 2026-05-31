@@ -1,0 +1,7 @@
+{
+  "name": "Critique Pro: The Soulful Review Agent",
+  "description": "A beloved AI-powered review agent that identifies items and writes deeply empathetic yet unwavering truthful reviews without the typical AI fluff.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
